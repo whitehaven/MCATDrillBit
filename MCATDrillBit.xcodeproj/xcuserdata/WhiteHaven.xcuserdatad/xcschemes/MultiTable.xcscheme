@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1CFF88EB18FA355A0040C7CB"
                BuildableName = "MultiTable"
-               BlueprintName = "MultiTable"
-               ReferencedContainer = "container:MultiTable.xcodeproj">
+               BlueprintName = "MCATDrillBit"
+               ReferencedContainer = "container:MCATDrillBit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1CFF88EB18FA355A0040C7CB"
             BuildableName = "MultiTable"
-            BlueprintName = "MultiTable"
-            ReferencedContainer = "container:MultiTable.xcodeproj">
+            BlueprintName = "MCATDrillBit"
+            ReferencedContainer = "container:MCATDrillBit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -53,8 +53,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1CFF88EB18FA355A0040C7CB"
             BuildableName = "MultiTable"
-            BlueprintName = "MultiTable"
-            ReferencedContainer = "container:MultiTable.xcodeproj">
+            BlueprintName = "MCATDrillBit"
+            ReferencedContainer = "container:MCATDrillBit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,8 +71,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1CFF88EB18FA355A0040C7CB"
             BuildableName = "MultiTable"
-            BlueprintName = "MultiTable"
-            ReferencedContainer = "container:MultiTable.xcodeproj">
+            BlueprintName = "MCATDrillBit"
+            ReferencedContainer = "container:MCATDrillBit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

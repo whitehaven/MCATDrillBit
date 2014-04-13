@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MultiTable.xcodeproj">
+      location = "self:MCATDrillBit.xcodeproj">
    </FileRef>
 </Workspace>
